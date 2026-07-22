@@ -22,8 +22,13 @@
     },
     {
       "id": "8090",
-      "name": "彩铃黄金年代",
+      "name": "怀旧经典",
       "count": 48
+    },
+    {
+      "id": "zhoujielun",
+      "name": "周杰伦精选",
+      "count": 13
     }
   ],
   "albums": [
@@ -172,7 +177,7 @@
       "name": "周杰伦精选",
       "description": "周杰伦经典歌曲合集",
       "cover": "/music-player/images/covers/playlist4.jpg",
-      "songCount": 0
+      "songCount": 13
     },
     {
       "id": 5,
@@ -183,11 +188,11 @@
     },
     {
       "id": 6,
-      "name": "彩铃黄金年代",
-      "description": "彩铃黄金年代 60 首网络歌曲合集，刻在 80、90 后青春里的终极回忆杀",
+      "name": "怀旧经典",
+      "description": "怀旧经典 · 彩铃黄金年代 48 首网络歌曲合集，刻在 80、90 后青春里的终极回忆杀",
       "cover": "/music-player/images/covers/default_cover.jpg",
       "songCount": 48
     }
   ],
-  "totalSongs": 147
+  "totalSongs": 160
 }
